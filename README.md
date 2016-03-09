@@ -1,5 +1,5 @@
 # CurieBLEServiceData
-Modified Arduino 101 CurieBLE library components to support BLE Service Data
+Modified Arduino 101 CurieBLE library components to support BLE Service Data.  This repo is OBSOLETED by [my support-eddystone-url pull request](https://github.com/01org/corelibs-arduino101/pull/146).
 
 The 1.0.4 version of the CurieBLE library for Arduino 101 doesn't support [Eddystone](https://github.com/google/eddystone) beacon advertising for two reasons:
 
